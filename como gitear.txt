@@ -1,0 +1,5 @@
+-abre el git o el git CMD y ve a la dirección del git
+-git status para comparar archivos
+-después git add . para preparalo pal commit
+-ahora el git commit -m "mensaje"
+-por ultimo el git push para subir
